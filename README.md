@@ -2,7 +2,8 @@
 
 This is Flutter Starter Template For Basic App
 * Include Theme
-* Include package dotNavigationItem
+* Include package googleFonts
+* Include package dotNavigationBar
 
 *update in future
 
